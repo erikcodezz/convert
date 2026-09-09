@@ -5,7 +5,7 @@
     "": {
       "name": "vacer-convert",
       "dependencies": {
-        "@ascr/analytics": "^1.0.1",
+        "@ascr/analytics": "1.0.2",
         "@hookform/resolvers": "^3.10.0",
         "@radix-ui/react-accordion": "1.2.2",
         "@radix-ui/react-alert-dialog": "1.1.4",
@@ -72,7 +72,7 @@
   "packages": {
     "@alloc/quick-lru": ["@alloc/quick-lru@5.2.0", "", {}, "sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw=="],
 
-    "@ascr/analytics": ["@ascr/analytics@1.0.1", "", { "peerDependencies": { "react": ">=18.0.0" }, "bin": { "analytics-init": "dist/cli.js" } }, "sha512-DVosnvLwKJedx+vxbOWn2E7RB0tPRHYjIzffCA7o5a0lscJ6vK7YeQvSowWfxplbWBX7ANCT1US/Dvf5nKcnaw=="],
+    "@ascr/analytics": ["@ascr/analytics@1.0.2", "", { "peerDependencies": { "react": ">=18.0.0" }, "bin": { "analytics-init": "dist/cli.js" } }, "sha512-/sypx1FylUqrhjfpi9I6rGujrDvXXkL5YJxHp9tWdfR6TevqX5Qj39k3raS6lMjFpdex97EQO9dWiQMovSjpqg=="],
 
     "@babel/runtime": ["@babel/runtime@7.29.7", "", {}, "sha512-Nq8OhGWiZIZGV6hLHoyAKLLcJihP/xFeBMGJoUrxTX2psI8dCifzLhZISFb+VWS3wFMRDmCGw5R+dOySCqPLhw=="],
 
